@@ -1,1 +1,42 @@
-
+{
+    "links": {
+        "github": "https://github.com/lilproskater",
+        "discord": "https://dsc.gg/hdrezka-client",
+        "gmail": "lilproskater17@gmail.com",
+        "email": "sultanovmirodil@mail.ru"
+    },
+    "cards": [
+        {
+            "network": "UZCARD",
+            "number": "8600 4904 2997 9610",
+            "expiration-date": "Homer? D'oh!",
+            "cardholder-name": "Mirodil Sultonov",
+            "backgrounds": {
+                "light-theme": {
+                    "image": "https://phonoteka.org/uploads/posts/2022-09/1663418157_1-phonoteka-org-p-art-gomer-simpson-vkontakte-1.png",
+                    "overlay-opacity": 35,
+                },
+                "dark-theme": {
+                    "image": "https://phonoteka.org/uploads/posts/2022-09/1663418157_1-phonoteka-org-p-art-gomer-simpson-vkontakte-1.png",
+                    "overlay-opacity": 45,
+                }
+            }
+        },
+        {
+            "network": "VISA",
+            "number": "4278 3100 2139 8888",
+            "expiration-date": "Donate cutie panda!",
+            "cardholder-name": "Mirodil Sultonov",
+            "backgrounds": {
+                "light-theme": {
+                    "image": "https://e0.pxfuel.com/wallpapers/385/67/desktop-wallpaper-panda-boba-cute-panda-bubble.jpg",
+                    "overlay-opacity": 35,
+                },
+                "dark-theme": {
+                    "image": "https://e0.pxfuel.com/wallpapers/385/67/desktop-wallpaper-panda-boba-cute-panda-bubble.jpg",
+                    "overlay-opacity": 45,
+                }
+            }
+        }
+    ]
+}
