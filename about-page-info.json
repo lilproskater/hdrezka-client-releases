@@ -20,9 +20,9 @@
                     "image": "https://phonoteka.org/uploads/posts/2022-09/1663418157_1-phonoteka-org-p-art-gomer-simpson-vkontakte-1.png",
                     "overlay-opacity": 45
                 },
-                "other-theme": {
+                "indigo-theme": {
                     "image": "https://phonoteka.org/uploads/posts/2022-09/1663418157_1-phonoteka-org-p-art-gomer-simpson-vkontakte-1.png",
-                    "overlay-opacity": 45
+                    "overlay-opacity": 40
                 }
             }
         },
@@ -40,9 +40,9 @@
                     "image": "https://e0.pxfuel.com/wallpapers/385/67/desktop-wallpaper-panda-boba-cute-panda-bubble.jpg",
                     "overlay-opacity": 45
                 },
-                "other-theme": {
-                    "image": "https://phonoteka.org/uploads/posts/2022-09/1663418157_1-phonoteka-org-p-art-gomer-simpson-vkontakte-1.png",
-                    "overlay-opacity": 45
+                "indigo-theme": {
+                    "image": "https://e0.pxfuel.com/wallpapers/385/67/desktop-wallpaper-panda-boba-cute-panda-bubble.jpg",
+                    "overlay-opacity": 40
                 }
             }
         }
