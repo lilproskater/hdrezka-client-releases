@@ -9,27 +9,27 @@
     "cards": [
         {
             "network": "UZCARD",
-            "number": "8600 4904 2997 9610",
+            "number": "5614 6812 0921 9579",
             "expiration-date": "Homer? D'oh!",
             "cardholder-name": "Mirodil Sultonov",
             "backgrounds": {
                 "light-theme": {
-                    "image": "https://phonoteka.org/uploads/posts/2022-09/1663418157_1-phonoteka-org-p-art-gomer-simpson-vkontakte-1.png",
+                    "image": "https://cf.geekdo-images.com/DWPzGov5Xt9nAUsNsjCwCQ__original/img/RxLz_tFjWwkwB8ycipBiQsvd7lE=/0x0/filters:format(jpeg)/pic794583.jpg",
                     "overlay-opacity": 35
                 },
                 "dark-theme": {
-                    "image": "https://phonoteka.org/uploads/posts/2022-09/1663418157_1-phonoteka-org-p-art-gomer-simpson-vkontakte-1.png",
+                    "image": "https://cf.geekdo-images.com/DWPzGov5Xt9nAUsNsjCwCQ__original/img/RxLz_tFjWwkwB8ycipBiQsvd7lE=/0x0/filters:format(jpeg)/pic794583.jpg",
                     "overlay-opacity": 45
                 },
                 "indigo-theme": {
-                    "image": "https://phonoteka.org/uploads/posts/2022-09/1663418157_1-phonoteka-org-p-art-gomer-simpson-vkontakte-1.png",
+                    "image": "https://cf.geekdo-images.com/DWPzGov5Xt9nAUsNsjCwCQ__original/img/RxLz_tFjWwkwB8ycipBiQsvd7lE=/0x0/filters:format(jpeg)/pic794583.jpg",
                     "overlay-opacity": 40
                 }
             }
         },
         {
-            "network": "VISA",
-            "number": "4278 3100 2139 8888",
+            "network": "MasterCard",
+            "number": "5397 1700 0026 7881",
             "expiration-date": "Donate to cutie panda!",
             "cardholder-name": "Mirodil Sultonov",
             "backgrounds": {
