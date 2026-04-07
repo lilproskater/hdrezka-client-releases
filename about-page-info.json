@@ -14,15 +14,15 @@
             "cardholder-name": "Mirodil Sultonov",
             "backgrounds": {
                 "light-theme": {
-                    "image": "https://cf.geekdo-images.com/DWPzGov5Xt9nAUsNsjCwCQ__original/img/RxLz_tFjWwkwB8ycipBiQsvd7lE=/0x0/filters:format(jpeg)/pic794583.jpg",
+                    "image": "https://static.simpsonswiki.com/images/1/14/Viza.png",
                     "overlay-opacity": 35
                 },
                 "dark-theme": {
-                    "image": "https://cf.geekdo-images.com/DWPzGov5Xt9nAUsNsjCwCQ__original/img/RxLz_tFjWwkwB8ycipBiQsvd7lE=/0x0/filters:format(jpeg)/pic794583.jpg",
+                    "image": "https://static.simpsonswiki.com/images/1/14/Viza.png",
                     "overlay-opacity": 45
                 },
                 "indigo-theme": {
-                    "image": "https://cf.geekdo-images.com/DWPzGov5Xt9nAUsNsjCwCQ__original/img/RxLz_tFjWwkwB8ycipBiQsvd7lE=/0x0/filters:format(jpeg)/pic794583.jpg",
+                    "image": "https://static.simpsonswiki.com/images/1/14/Viza.png",
                     "overlay-opacity": 40
                 }
             }
