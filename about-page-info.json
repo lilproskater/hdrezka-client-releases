@@ -6,46 +6,5 @@
         "gmail": "lilproskater17@gmail.com",
         "email": "sultanovmirodil@mail.ru"
     },
-    "cards": [
-        {
-            "network": "UZCARD",
-            "number": "5614 6812 0921 9579",
-            "expiration-date": "Homer? D'oh!",
-            "cardholder-name": "Mirodil Sultonov",
-            "backgrounds": {
-                "light-theme": {
-                    "image": "https://static.simpsonswiki.com/images/1/14/Viza.png",
-                    "overlay-opacity": 35
-                },
-                "dark-theme": {
-                    "image": "https://static.simpsonswiki.com/images/1/14/Viza.png",
-                    "overlay-opacity": 45
-                },
-                "indigo-theme": {
-                    "image": "https://static.simpsonswiki.com/images/1/14/Viza.png",
-                    "overlay-opacity": 40
-                }
-            }
-        },
-        {
-            "network": "MasterCard",
-            "number": "5397 1700 0026 7881",
-            "expiration-date": "Donate to cutie panda!",
-            "cardholder-name": "Mirodil Sultonov",
-            "backgrounds": {
-                "light-theme": {
-                    "image": "https://e0.pxfuel.com/wallpapers/385/67/desktop-wallpaper-panda-boba-cute-panda-bubble.jpg",
-                    "overlay-opacity": 35
-                },
-                "dark-theme": {
-                    "image": "https://e0.pxfuel.com/wallpapers/385/67/desktop-wallpaper-panda-boba-cute-panda-bubble.jpg",
-                    "overlay-opacity": 45
-                },
-                "indigo-theme": {
-                    "image": "https://e0.pxfuel.com/wallpapers/385/67/desktop-wallpaper-panda-boba-cute-panda-bubble.jpg",
-                    "overlay-opacity": 40
-                }
-            }
-        }
-    ]
+    "cards": []
 }
